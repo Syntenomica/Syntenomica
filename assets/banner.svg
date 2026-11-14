@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Syntenomica — Scientific software, thoughtfully built">
+<rect width="1200" height="300" rx="20" fill="#102b24"/>
+<g fill="none" stroke="#41695a" stroke-width="1"><path d="M790 0v300M850 0v300M910 0v300M970 0v300M1030 0v300M1090 0v300M1150 0v300M730 60h470M730 120h470M730 180h470M730 240h470"/></g>
+<g fill="none" stroke="#a3d7c7" stroke-width="2"><ellipse cx="980" cy="150" rx="145" ry="94"/><ellipse cx="980" cy="150" rx="104" ry="67"/><ellipse cx="980" cy="150" rx="61" ry="39"/><path d="M816 205q78-147 164-55t164-55"/></g>
+<circle cx="980" cy="150" r="8" fill="#d9ec9b"/>
+<text x="62" y="77" font-family="sans-serif" font-size="15" letter-spacing="4" fill="#a8cabb">MICROSCOPY · IMAGE ANALYSIS · BIOINFORMATICS</text>
+<text x="60" y="157" font-family="sans-serif" font-size="62" font-weight="700" fill="#f0f6f2">Syntenomica</text>
+<text x="64" y="213" font-family="sans-serif" font-size="24" fill="#c3d8cc">Scientific software, thoughtfully built.</text>
+</svg>
