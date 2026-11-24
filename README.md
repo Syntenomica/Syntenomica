@@ -11,6 +11,14 @@ A microscopy workspace for reviewing focal planes, comparing recordings, computi
 - **Ubuntu:** a native desktop preview with local projects, manual measurements and relative focus Relief.
 - Application source repositories are currently private.
 
+#### Android closed test
+
+I’m looking for volunteers who use Android 8.0 or later to try Syntenomica for free. Can you import a short focus sweep, mark eight circles on one frame, and find those eight observations in your export? The six-second practice clip comes with English and Hungarian instructions. You can also try your own microscope recording. [Download the practice clip and instructions](https://github.com/Syntenomica/Syntenomica/raw/refs/heads/main/assets/android-closed-test.zip)
+
+1. To volunteer, privately email the Google Play address you want added to the test. [Request an invitation at syntenomica@gmail.com](mailto:syntenomica@gmail.com?subject=Syntenomica%20Android%20closed%20test)
+2. After you receive confirmation, open the opt-in page with that same account and install the app. [Join on Google Play](https://play.google.com/apps/testing/com.syntenomica.trace) · [Install from the Play Store](https://play.google.com/store/apps/details?id=com.syntenomica.trace)
+3. Please stay enrolled for at least 14 consecutive days. I’d like to hear which step worked and where you got stuck. Your phone model, Android version and app version will help me reproduce issues. [Send feedback](mailto:syntenomica@gmail.com?subject=Syntenomica%20test%20feedback) · [Privacy information for testers](https://syntenomica.github.io/privacy/#email)
+
 ### [PRISM · Protein Intelligence Suite](https://github.com/Syntenomica/PRISM)
 A Flask/Biopython application for exploring sequence-derived protein descriptors, comparing variants and exporting reports. The public repository includes setup instructions and the limits of its heuristic interpretations.
 
